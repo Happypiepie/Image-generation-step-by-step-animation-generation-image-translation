@@ -14,7 +14,7 @@ the Superresolution network super-resolves the actual picture after completing m
 In the comparison test with WGAN, SAGAN, WGAN-GP and PG-GAN, this paper’s LGAN(SEG) leads 64.36 and 12.28,
 respectively, fully proving the model’s superiority.
 ![This is an image](https://github.com/Happypiepie/Image-generation-step-by-step-animation-generation-image-translation/blob/main/FIG4.png)
-![This is an image](https://github.com/Happypiepie/Image-generation-step-by-step-animation-generation-image-translation/blob/main/Generator%20Composition.png)
+![This is an image](https://github.com/Happypiepie/Image-generation-step-by-step-animation-generation-image-translation/blob/main/gennerator_.png)
 
 # Requirements
 
